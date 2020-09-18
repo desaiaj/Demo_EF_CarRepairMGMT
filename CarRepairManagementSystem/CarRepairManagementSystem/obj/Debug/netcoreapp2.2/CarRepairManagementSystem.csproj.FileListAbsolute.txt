@@ -1,0 +1,4 @@
+D:\Desktop\CarRepairManagementSystem\CarRepairManagementSystem\obj\Debug\netcoreapp2.2\CarRepairManagementSystem.csprojAssemblyReference.cache
+D:\Desktop\CarRepairManagementSystem\CarRepairManagementSystem\obj\Debug\netcoreapp2.2\CarRepairManagementSystem.AssemblyInfoInputs.cache
+D:\Desktop\CarRepairManagementSystem\CarRepairManagementSystem\obj\Debug\netcoreapp2.2\CarRepairManagementSystem.AssemblyInfo.cs
+D:\Desktop\CarRepairManagementSystem\CarRepairManagementSystem\obj\Debug\netcoreapp2.2\CarRepairManagementSystem.csproj.CoreCompileInputs.cache
